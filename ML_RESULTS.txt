@@ -1,0 +1,4 @@
+Integrated model: RandomForestClassifier(n_estimators=50, max_depth=10, class_weight=balanced_subsample, random_state=42)
+Validation split: 80/20 stratified
+Validation metrics from the generated model: Accuracy 0.7310, Precision 0.2442, Recall 0.6281, F1 0.3516, ROC-AUC 0.7515
+Note: metrics are validation results, not a guarantee of real-world lending performance.
